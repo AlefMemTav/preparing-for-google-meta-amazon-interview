@@ -1,5 +1,5 @@
-# study-for-google-and-meta-interview
-Preparing for Google and Meta interview. 
+# 👨‍🎓📚💪💻 Preparing for Google, Meta, Amazon interviews
+Most Leetcode exercises (Top 150), especially: Arrays, Strings, HashMap, Trees, Graphs, Dynamic Programming
 
 ## Arrays
 ### Easy
