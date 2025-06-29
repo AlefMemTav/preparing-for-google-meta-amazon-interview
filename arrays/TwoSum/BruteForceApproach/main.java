@@ -10,6 +10,6 @@ class Solution {
                 }
             }
         }
-        throw new IllegalArgumentException("No solution");
+        return new int[] {};
     }
 }
