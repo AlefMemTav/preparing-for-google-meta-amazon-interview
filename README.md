@@ -6,7 +6,7 @@ Most Leetcode exercises (Top 150), especially: Arrays, Strings, HashMap, Trees, 
 1. Merge two sorted arrays [(Solution)](arrays/MergeTwoSortedArrays)
 2. Remove duplicates from an array [(Solution)](arrays/RemoveDuplicatesFromAnArray)
 3. Count the frequency of an element in an array [(Solution)](arrays/CountTheFrequencyOfAnElementInAnArray/)
-4. Two sum [(Solution)](arrays/TwoSum/) #1 leetcode
+4. Two sum [(Solution)](arrays/TwoSum/) #1
 5. Find the minimum (or maximum) element of an array
 6. Remove duplicates from sorted array
 7. Remove element in-place
@@ -114,6 +114,6 @@ Most Leetcode exercises (Top 150), especially: Arrays, Strings, HashMap, Trees, 
 11. Design Search Autocomplete System
 
 
-## Linked List
+## Lists
 ### Medium
-1. Add Two Numbers [(Solution)](linked-list/addTwoNumbers) #2 leetcode
+1. Add Two Numbers [(Solution)](lists/addTwoNumbers) #2
